@@ -13,7 +13,7 @@ class Node {
     }
 }
 
-public class Solution {
+public class TopView {
 
     /*
     
